@@ -1,7 +1,8 @@
 name: Rose Hoffmann
 favicon: null
-layout_spectrum: 0.6278629994485527
+layout_spectrum: 0.63563
 typography_spectrum: 0.7811517361551523
+title: Rose Hoffmann Art
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.004542146110907197
-  lightness: 0.02849819464609027
-  saturation: 0.5654039322398603
-  rhythmicContrast: 0.5469744391739368
+    - '#cc5c84'
+    - '#dfc7d7'
+    - '#8ab192'
+    - '#000002'
+    - '#518962'
+  brandStrength: 0.3125
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
